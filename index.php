@@ -1,3 +1,3 @@
 <?php
 
-echo 'OK '.time();
+echo '<h1>OK </h1>'.time();
